@@ -1,0 +1,39 @@
+{
+    "name": "com.deviprasadrath.levelpuzzle",
+    "version": "1.0.0",
+    "displayName": "Level Puzzle Package",
+    "description": "A Unity package for a level-based word puzzle game where users must select words in order to form sentences.",
+    "unity": "2021.1",
+    "documentationUrl": "https://deviprasadrath.com/levelpuzzle/documentation",
+    "changelogUrl": "https://deviprasadrath.com/levelpuzzle/changelog",
+    "licensesUrl": "https://deviprasadrath.com/levelpuzzle/license",
+    "dependencies": {
+        "com.unity.textmeshpro": "3.0.6",
+        "com.unity.timeline": "1.7.6",
+        "com.unity.ugui": "1.0.0"
+    },
+    "keywords": [
+        "puzzle",
+        "word game",
+        "education",
+        "sentence formation",
+        "Unity"
+    ],
+    "author": {
+        "name": "Devi Prasad Rath",
+        "email": "devi.rath07@gmail.com",
+        "url": "https://deviprasadrath.com"
+    },
+    "samples": [
+        {
+            "displayName": "Demo Scene 1",
+            "description": "Demonstrates basic gameplay with sample word selection.",
+            "path": "Samples~/DemoScene1"
+        },
+        {
+            "displayName": "Demo Scene 2",
+            "description": "Shows an advanced level with sentence formation gameplay.",
+            "path": "Samples~/DemoScene2"
+        }
+    ]
+}

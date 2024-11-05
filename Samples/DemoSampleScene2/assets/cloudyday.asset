@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0714faeaea09274da5b9a1b6b83d468, type: 3}
+  m_Name: cloudyday
+  m_EditorClassIdentifier: 
+  levelNumber: 1
+  sceneName: cloud
+  sentence: the Rain stops
+  wordList:
+  - Rain
+  - cloud
+  - sun
+  - snow
+  - stops
+  - the
+  solveAnimations:
+  - {fileID: 7400000, guid: 0616c7d5a153a5e4eb869982cc32a5ee, type: 2}
+  - {fileID: 7400000, guid: 2ed3608a1c19511419cdd890375bd4e8, type: 2}
